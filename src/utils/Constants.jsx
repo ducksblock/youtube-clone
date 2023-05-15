@@ -1,31 +1,27 @@
-import MusicNoteIcon from '@mui/icons-material/MusicNote'
-import HomeIcon from '@mui/icons-material/Home'
-import CodeIcon from '@mui/icons-material/Code'
-import OndemandVideoIcon from '@mui/icons-material/OndemandVideo'
-import SportsEsportsIcon from '@mui/icons-material/SportsEsports'
-import LiveTvIcon from '@mui/icons-material/LiveTv'
-import SchoolIcon from '@mui/icons-material/School'
-import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural'
-import CheckroomIcon from '@mui/icons-material/Checkroom'
-import GraphicEqIcon from '@mui/icons-material/GraphicEq'
-import TheaterComedyIcon from '@mui/icons-material/TheaterComedy'
-import FitnessCenterIcon from '@mui/icons-material/FitnessCenter'
-import DeveloperModeIcon from '@mui/icons-material/DeveloperMode'
+import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined'
+import WhatshotOutlinedIcon from '@mui/icons-material/WhatshotOutlined'
+import ShoppingBagOutlinedIcon from '@mui/icons-material/ShoppingBagOutlined'
+import MusicNoteOutlinedIcon from '@mui/icons-material/MusicNoteOutlined'
+import MovieOutlinedIcon from '@mui/icons-material/MovieOutlined'
+import SensorsOutlinedIcon from '@mui/icons-material/SensorsOutlined'
+import FeedOutlinedIcon from '@mui/icons-material/FeedOutlined'
+import EmojiEventsOutlinedIcon from '@mui/icons-material/EmojiEventsOutlined'
+import LightbulbOutlinedIcon from '@mui/icons-material/LightbulbOutlined'
+import DryCleaningOutlinedIcon from '@mui/icons-material/DryCleaningOutlined'
 
 export const logo = 'https://i.ibb.co/r4zwLry/yt-logo.png'
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon /> },
-  { name: 'Coding', icon: <CodeIcon /> },
-  { name: 'Music', icon: <MusicNoteIcon /> },
-  { name: 'Education', icon: <SchoolIcon /> },
-  { name: 'Podcast', icon: <GraphicEqIcon /> },
-  { name: 'Movie', icon: <OndemandVideoIcon /> },
-  { name: 'Gaming', icon: <SportsEsportsIcon /> },
-  { name: 'Fitness', icon: <FitnessCenterIcon /> },
-  { name: 'Fashion', icon: <CheckroomIcon /> },
-  { name: 'Beauty', icon: <FaceRetouchingNaturalIcon /> },
-  { name: 'Comedy', icon: <TheaterComedyIcon /> },
+  { name: 'New', icon: <HomeOutlinedIcon /> },
+  { name: 'Trending', icon: <WhatshotOutlinedIcon /> },
+  { name: 'Shopping', icon: <ShoppingBagOutlinedIcon /> },
+  { name: 'Music', icon: <MusicNoteOutlinedIcon /> },
+  { name: 'Movies', icon: <MovieOutlinedIcon /> },
+  { name: 'Live', icon: <SensorsOutlinedIcon /> },
+  { name: 'News', icon: <FeedOutlinedIcon /> },
+  { name: 'Sports', icon: <EmojiEventsOutlinedIcon /> },
+  { name: 'Learning', icon: <LightbulbOutlinedIcon /> },
+  { name: 'Fashion', icon: <DryCleaningOutlinedIcon /> },
 ]
 
 export const demoThumbnailUrl = 'https://i.ibb.co/F04np1Q/thumbnail-vid-6.jpg'

@@ -37,12 +37,12 @@ const Feed = () => {
 
       <Box pl={4} sx={{ overflowY: 'auto', flex: 2 }}>
         <Typography
-          variant="h4"
+          variant="h5"
           fontWeight="bold"
           mb={2}
-          sx={{ color: 'white' }}
+          sx={{ color: '#F1F1F1' }}
         >
-          {selectedCategory}
+          {selectedCategory} videos
         </Typography>
 
         <Videos videos={videos} />
