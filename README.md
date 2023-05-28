@@ -2,6 +2,9 @@
 
 ### A privacy-friendly YouTube clone designed with clean ad-free experience
 
+![image](https://github.com/ducksblock/youtube-clone/assets/105146670/9d0c4f3e-2c67-4207-88e6-fb410fc31370)
+
+
 ## Technologies Used
 
 1. React JS bootstrapped with Vite
