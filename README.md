@@ -13,9 +13,8 @@
 
 1. UI Framework - Material UI
 2. Network Communication - Axios
-3. Work in Progress
 
 ## Features
 
-1. Video Search
-2. Work in Progress
+1. Video Feed
+2. Videos based on Selected Category
